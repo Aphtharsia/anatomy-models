@@ -1,0 +1,792 @@
+{
+ "model_version": "MV395",
+ "license": "CC-BY-SA-4.0",
+ "count": 157,
+ "files": [
+  {
+   "file": "models/abdo_wall_s124_female.glb",
+   "size": 404304,
+   "sha256": "952fb46a4f563afa74c124203ef0e9b8c70e18e7e54ef9962cdbb796d81438bd"
+  },
+  {
+   "file": "models/abdo_wall_s124_male.glb",
+   "size": 850064,
+   "sha256": "925b68be43abc53c1a3d47186fba73a02ba5f4e855987013fb6609944c75bd98"
+  },
+  {
+   "file": "models/anular_ligament_s123.glb",
+   "size": 8984,
+   "sha256": "a24ddf56f23b2641926fb933a98235f086ccaee0c51b7288680b3eef871ab152"
+  },
+  {
+   "file": "models/anulus_female.glb",
+   "size": 495360,
+   "sha256": "fdc8f1d081aef89f806f13bdab7360ab6897cc69f6b817f0c13498cdbe4ade65"
+  },
+  {
+   "file": "models/anulus_male.glb",
+   "size": 493916,
+   "sha256": "b7f1a9711a357c6d5cd779d71f08eb563b4e5f0f2d87835f9b3c7648ee052c23"
+  },
+  {
+   "file": "models/arcuate_s119.glb",
+   "size": 72672,
+   "sha256": "921ba8345f6c2daa183f88cb84af6f388eccd494e1c0f4b820574351594b2d0a"
+  },
+  {
+   "file": "models/arteries_s121.glb",
+   "size": 38740,
+   "sha256": "2eb4bf4f612dfb7ad0ba0085cd7620818fd18c7be93987e19175bb28eea48e5e"
+  },
+  {
+   "file": "models/attach_split.glb",
+   "size": 1133560,
+   "sha256": "5c6698d3273baae9832b4e2255f43a02df257f1b9d3f05ad3c5989366f5aaa19"
+  },
+  {
+   "file": "models/bicipital_aponeurosis.glb",
+   "size": 141452,
+   "sha256": "d212d5780cebbebe7a8b4f5262a809b4ec5756291f9da5912cda2d865e41424a"
+  },
+  {
+   "file": "models/bone_landmarks.glb",
+   "size": 78456,
+   "sha256": "dbbbc6b7f3965971ae9c6bc41118c0c673706286177f5bbdda34ecbcd16b8416"
+  },
+  {
+   "file": "models/bone_landmarks_female.glb",
+   "size": 93656,
+   "sha256": "777107fe801e306ca8d5654874a6ef5a077cab3f588a731c129bf9cf9f696a32"
+  },
+  {
+   "file": "models/bone_landmarks_male.glb",
+   "size": 99020,
+   "sha256": "8bd7821b626d3c54c7b587942854fc30f28d4a83f3bc35957c539204c6ff12f3"
+  },
+  {
+   "file": "models/bone_landmarks_s116.glb",
+   "size": 5688,
+   "sha256": "06b55624d28a3ea182539e6e02f9caac6e0d32748d3827fbaaa10cbe460890ae"
+  },
+  {
+   "file": "models/bone_landmarks_s119.glb",
+   "size": 6640,
+   "sha256": "15f1f7de3c0d46284f7362050704998b080421545bb292e823841051d1571090"
+  },
+  {
+   "file": "models/bone_patch_fix_s118.glb",
+   "size": 8800,
+   "sha256": "3d97c67b8daa1316f1b2885910c8b8908ad2b7ad330de35c81f8dd03ff46d691"
+  },
+  {
+   "file": "models/brain.glb",
+   "size": 1030912,
+   "sha256": "646e32d0a712fdb0ae4e85fbe492c2e231f43bf517777ed0415594e124227091"
+  },
+  {
+   "file": "models/breast_female.glb",
+   "size": 650856,
+   "sha256": "a742a857c2d86965f55de8e19a1d558daa3678f8f99759754963a20c133afe0e"
+  },
+  {
+   "file": "models/breast_lobes_female.glb",
+   "size": 117228,
+   "sha256": "b3d21818faa8c7040591024146df52f1bf1d39440d65f306bb9e6daa679d47cc"
+  },
+  {
+   "file": "models/brows_lashes_f.glb",
+   "size": 157716,
+   "sha256": "c61d41ad68c82ee80de47857fef6b55838d4aa811b7e6c5fda7c7f376e4e400f"
+  },
+  {
+   "file": "models/brows_lashes_m.glb",
+   "size": 120904,
+   "sha256": "6bff785bffea97a1174a68e9762ba174a3e9fd14a1715dceccee84cd3ccf2b84"
+  },
+  {
+   "file": "models/camper_s119.glb",
+   "size": 147812,
+   "sha256": "5c1ca8ca0b1e91da745a59dc05c38946f841dab0910118d723f185804f880f6a"
+  },
+  {
+   "file": "models/camper_s119b.glb",
+   "size": 153104,
+   "sha256": "eeeb7d56f44acde9cd8a5e4ddebefccaf84f6c8dfb4e06eb07275faa5cc87088"
+  },
+  {
+   "file": "models/central_tendon_s119.glb",
+   "size": 11608,
+   "sha256": "4ecc81b7b3a08bc228624f627f08f1ea7cc9827c5c3442a8b02a607f6e89f648"
+  },
+  {
+   "file": "models/cervical_tf_s122.glb",
+   "size": 195644,
+   "sha256": "6abdb420e35480369162bbe0b9f68c38202c0aacf54688f7c59e549943fe7ff3"
+  },
+  {
+   "file": "models/cns_detail.glb",
+   "size": 940592,
+   "sha256": "4f3c50bafb7aed9f3947d9a70e0e4402daf3aabedbd5ef5e4510fa74742c355f"
+  },
+  {
+   "file": "models/conchae_s120d.glb",
+   "size": 56376,
+   "sha256": "9b8bc361671273bb4318bb4eced3faf648f92dec61da44070339c272f66dd7b2"
+  },
+  {
+   "file": "models/conus_s121.glb",
+   "size": 26240,
+   "sha256": "5dfb6cd5ebd0ec81fd45b37bd14e2ae79b3f08c2e6510f7476ae4e6daec924ce"
+  },
+  {
+   "file": "models/crura_recut_s118.glb",
+   "size": 12232,
+   "sha256": "b9c102c0e6a15f0234a640e9e238363d8fe068c0fbdda4874f513e3295473113"
+  },
+  {
+   "file": "models/diaphragm_parts.glb",
+   "size": 101296,
+   "sha256": "7e06af21d36ccb58758f39cfe882bb15bcfe9ec158a47c9e2d004365efb0aade"
+  },
+  {
+   "file": "models/discs.glb",
+   "size": 33956,
+   "sha256": "45a8114bf28aeeba52659784eba0549739006574ff60d4a72ee30263798bf54c"
+  },
+  {
+   "file": "models/ducts_s116.glb",
+   "size": 40380,
+   "sha256": "b4d4af0cf9ae8d2be6e50c058847bbdc8dc6cba124629129a116db1831e3f677"
+  },
+  {
+   "file": "models/ear_s123.glb",
+   "size": 48236,
+   "sha256": "eb59632e494ebb61b4ac4b881cbe3e4089e7991c589f0c91a2747d645fb768b7"
+  },
+  {
+   "file": "models/ears.glb",
+   "size": 124424,
+   "sha256": "ca6078d61be91c343b153c07ae2dfa838621a359319e5ac0c6eddde0eb476bc5"
+  },
+  {
+   "file": "models/ethmoid_cells_s120.glb",
+   "size": 96948,
+   "sha256": "d48d41a7a5707b8e154eccab5d44690535734c6cf2b9ba533de8ab418af93214"
+  },
+  {
+   "file": "models/eyelids_s122.glb",
+   "size": 262952,
+   "sha256": "4fcb06bb03e9d58afc5569765cab7f605ba99c46f160203c4b42bd8e278922cf"
+  },
+  {
+   "file": "models/eyes.glb",
+   "size": 397156,
+   "sha256": "65edf980ba54fdf615fe499e211f069525bf5f1e543bb5445d459a5e6213644e"
+  },
+  {
+   "file": "models/face_neck.glb",
+   "size": 553012,
+   "sha256": "c73cc4fb50e15b7e944d9805c99b40f6634bd34a664d400fe283cabb3e737c17"
+  },
+  {
+   "file": "models/fascia_at.glb",
+   "size": 793804,
+   "sha256": "e756cdda7c19a5756f8d1f440215a4295ee829894770365b7357702e008ed659"
+  },
+  {
+   "file": "models/fascia_layers_s117.glb",
+   "size": 101628,
+   "sha256": "9ad46e40d8640a08a5de7df11634889fc12cd33d2c809d21311ca2d2ad419f74"
+  },
+  {
+   "file": "models/femoral_artery_female.glb",
+   "size": 10172,
+   "sha256": "71216f65e20de0ae547b1799f97ea5c31cb16af183ff66ad82521af08e4b05ba"
+  },
+  {
+   "file": "models/femoral_artery_male.glb",
+   "size": 10288,
+   "sha256": "80bf0fe1cc2403a8f19e1e329027a97a394a7f3da6fae9f8bd953ed40f108ed1"
+  },
+  {
+   "file": "models/femur_parts.glb",
+   "size": 284428,
+   "sha256": "cb8b444c263f17a4e802baee78b10cf947619e15ee57f395b272febdd62926df"
+  },
+  {
+   "file": "models/fossa_ovalis_s119.glb",
+   "size": 247028,
+   "sha256": "b7d45f7ec6db99d179db5b15aea4571a55ec00af6afdcb066ea100df282245f2"
+  },
+  {
+   "file": "models/gingiva_s124_female.glb",
+   "size": 2028400,
+   "sha256": "4762a49d2ef7d3093c704c63735fc0f6fa7ddb54b49fd9314f28a8b35675d4bd"
+  },
+  {
+   "file": "models/gingiva_s124_male.glb",
+   "size": 2025684,
+   "sha256": "164144dfd53497cb1dfab506e33c106449f3cd9e8c50cf29d1efc6b496c22e71"
+  },
+  {
+   "file": "models/glands.glb",
+   "size": 105916,
+   "sha256": "2f6dc2dd669ab503e9b58b5f2ba6bc4bd3dd653a0a9f7e055b04b11cf27913f1"
+  },
+  {
+   "file": "models/glands_s124.glb",
+   "size": 17808,
+   "sha256": "9906700598301641eb6649b38fcbfc863f88eead842857c38d6e179dcfb347f3"
+  },
+  {
+   "file": "models/glands_s124_male.glb",
+   "size": 6052,
+   "sha256": "5e6b55d239d3475a0fcfe8efa9f2adfdc69ec8e5abd4a3e46e84ec5e5f748efe"
+  },
+  {
+   "file": "models/gluteal_fat_f.glb",
+   "size": 53132,
+   "sha256": "a73d8369245cf9ad132d945887c413a0e1ad9e74e96ba7931b7151df9e9619e7"
+  },
+  {
+   "file": "models/gluteal_fat_m.glb",
+   "size": 52416,
+   "sha256": "03a93e7c2c7673c310de4a7337ce40410bfd90e6e1e8bf34e8bcea0161613c2d"
+  },
+  {
+   "file": "models/gut_fix_s118.glb",
+   "size": 20580,
+   "sha256": "1b4f7f38b779de14e5822839ce2a0a6c5b82dcb8e869f73e4092088eda989e74"
+  },
+  {
+   "file": "models/gut_parts_s117.glb",
+   "size": 50004,
+   "sha256": "2d6e6f2a2cbb0ac1f66973cceef07216ff3c1a5ecfa0a177f5967272c0172310"
+  },
+  {
+   "file": "models/heart_chambers_s119.glb",
+   "size": 1413788,
+   "sha256": "e6283d159d1e67fc2312240aed8284c329f9203b5086eb893018e2694bede6f5"
+  },
+  {
+   "file": "models/heart_interior_s118.glb",
+   "size": 19616,
+   "sha256": "f92c500b1fe4d3bd7fbc26ddb125ef011451ca29d15fa6ea5867dc8a0bb0a7ec"
+  },
+  {
+   "file": "models/heart_lv_s122_female.glb",
+   "size": 2691600,
+   "sha256": "a7b0b155ba6c7ea69f8315d6f3f51ac2ba9a5f7a80f13bcbbb753c38cdc36790"
+  },
+  {
+   "file": "models/heart_lv_s122_male.glb",
+   "size": 2594064,
+   "sha256": "bf04cf68f20ed55ae4f97f4bdee3da63d7cfa911696cb111641c24dbc2e38dda"
+  },
+  {
+   "file": "models/heart_s123_female.glb",
+   "size": 6703436,
+   "sha256": "15c772e5ae4a1c058c554ef0ba2fcb1fa4e260df50a506e83e14ef4603e78a39"
+  },
+  {
+   "file": "models/heart_s123_male.glb",
+   "size": 6465012,
+   "sha256": "58938901dec44b1247129fe86509aeb1b3a5d8f58991f0d170733ebe0ef3cf12"
+  },
+  {
+   "file": "models/hip_attach_s124_female_insertions.glb",
+   "size": 552012,
+   "sha256": "bda2318f344cf7d60710e6143dae229b0d1cd4e3b1af8ded8b1ebec6a8a44b0d"
+  },
+  {
+   "file": "models/hip_attach_s124_female_insertions_split.glb",
+   "size": 138756,
+   "sha256": "4417a41628c49aa47ec1dceda035b8b2bf6a9f525e51f7f55b6419c026735ac6"
+  },
+  {
+   "file": "models/hip_attach_s124_female_joints.glb",
+   "size": 826556,
+   "sha256": "739329f838b500fc6f81285a1530d3001c4ae0b52040fa0f57c41c21d5600a02"
+  },
+  {
+   "file": "models/hip_attach_s124_female_joints_extras.glb",
+   "size": 14004,
+   "sha256": "8a251b50fdff6690a85a51abb6b3330ab3f28833902445c03b2f56d38682f450"
+  },
+  {
+   "file": "models/hip_attach_s124_female_levator_arch.glb",
+   "size": 24316,
+   "sha256": "e249151cafbb53a1f344e19ac804e8e6433fbf3647fbe615f935486f5ebe3817"
+  },
+  {
+   "file": "models/hip_attach_s124_female_muscles.glb",
+   "size": 1394672,
+   "sha256": "81bbe819e759084a83507d77afde606f1b052caf22783127413e9c65ee9c746f"
+  },
+  {
+   "file": "models/hip_attach_s124_female_pubo_analis.glb",
+   "size": 44720,
+   "sha256": "4f1e9e5fd2b3dd2830224a36de72a1fc16e84c5b9aa37bbbf63330677b729284"
+  },
+  {
+   "file": "models/hip_attach_s124_male_insertions.glb",
+   "size": 552020,
+   "sha256": "93dcd25b39d1aa665278c2b329764d079fd561c52f29cecfb07ecdce3bd40456"
+  },
+  {
+   "file": "models/hip_attach_s124_male_insertions_split.glb",
+   "size": 138756,
+   "sha256": "37ef9ddf132eb2583bedeeda1b70a9a0d822051132819b9524cc391a2e333dd1"
+  },
+  {
+   "file": "models/hip_attach_s124_male_joints.glb",
+   "size": 826564,
+   "sha256": "ad0d351c989cb787d60dba4efd5278ebd1ac2dcb5400cd720f8608c0b9cea8cb"
+  },
+  {
+   "file": "models/hip_attach_s124_male_joints_extras.glb",
+   "size": 14004,
+   "sha256": "2d37c3407070b3d7428dc2f66f88cdcba6d57a29e04a40feac78888b284ec48b"
+  },
+  {
+   "file": "models/hip_attach_s124_male_levator_arch.glb",
+   "size": 24320,
+   "sha256": "c4932d87db5a26686d1da74fd4289b8c2220bb40ed332ec70f3066342a82621f"
+  },
+  {
+   "file": "models/hip_attach_s124_male_muscles.glb",
+   "size": 1394668,
+   "sha256": "c53d837ae981606441025a282f201e6f561752b358ab84e5dd24888b751c1825"
+  },
+  {
+   "file": "models/hip_attach_s124_male_pubo_analis.glb",
+   "size": 44720,
+   "sha256": "e7354cd41fed897f514b6301579004cac5307093a438d61e0207822369253531"
+  },
+  {
+   "file": "models/hypogastric_plexus_s119.glb",
+   "size": 56984,
+   "sha256": "667baeb439388a779e1520a456d5e78bee32f520882b62d0fb1eeb9cc6264b8a"
+  },
+  {
+   "file": "models/ias_s119.glb",
+   "size": 119196,
+   "sha256": "5bcebca881252ce0ce32a129d4b6242658558cc9c27ccc29eb9636617fc8130b"
+  },
+  {
+   "file": "models/insertions_at.glb",
+   "size": 1686480,
+   "sha256": "940628c70009853ad252f8508942e5170ff789a469c0d9c678a205ab43c7a72a"
+  },
+  {
+   "file": "models/intercostal_membrane.glb",
+   "size": 16764,
+   "sha256": "8cdf39003bce3ade765f32697baeb5abeb04763c7fcac2ceded168fe28cd8488"
+  },
+  {
+   "file": "models/interspinales_left.glb",
+   "size": 103364,
+   "sha256": "22b2efa01a85000e7ab0bc4791dfbfb26930dbf0a4ea3c603afaaa77cb47947d"
+  },
+  {
+   "file": "models/ivs_s119.glb",
+   "size": 226928,
+   "sha256": "edcb49be4c6ccbca1576d913de746891eda12823044fcad03306e5a2a09ab9b9"
+  },
+  {
+   "file": "models/joint_extras.glb",
+   "size": 36932,
+   "sha256": "daa95845bdcac2e6f85689a08117d11d814cc3890891c376e65108a180cdb2c2"
+  },
+  {
+   "file": "models/joints_at.glb",
+   "size": 5259020,
+   "sha256": "230550a3b709711c1142407f71236a319414895e17648212e79b5d4428b2c926"
+  },
+  {
+   "file": "models/knee_capsule.glb",
+   "size": 85424,
+   "sha256": "82045039ce061022c12d33688a550887e83ebe229c0a75dab54d75fbc62bd119"
+  },
+  {
+   "file": "models/larynx.glb",
+   "size": 33532,
+   "sha256": "63585267497a74f7c730bf9ba97bd8e6a2c6b5b034ea5fd986738790d56ad2ec"
+  },
+  {
+   "file": "models/larynx_fix_s118.glb",
+   "size": 50508,
+   "sha256": "8cafcfefdf48a4d55fa18a6060d5512e4ad599d2ed7820e023916e00cb755471"
+  },
+  {
+   "file": "models/larynx_folds_s117.glb",
+   "size": 13812,
+   "sha256": "30f44ccbbec2523f3823ca20b7e4288e6acd23126da03f7e1feeab7158a4a287"
+  },
+  {
+   "file": "models/larynx_folds_s118.glb",
+   "size": 143000,
+   "sha256": "417854218633d52f694460cc19852f47e9540475d2b73e5444245dccc621c3f2"
+  },
+  {
+   "file": "models/lateral_arcuate_s119.glb",
+   "size": 116364,
+   "sha256": "e0f6d2596ffcb0df241645a6a8972e287c610ce26db2fb2b907429681e0d9f8a"
+  },
+  {
+   "file": "models/left_auricle_s119_female.glb",
+   "size": 346944,
+   "sha256": "b537c8809111322f06368f630a102b03c4466a0abf9efdf33169c62ed1b00234"
+  },
+  {
+   "file": "models/left_auricle_s119_male.glb",
+   "size": 337732,
+   "sha256": "69ccd453f15fda87c0343e6e74a6c203b090e6681c3ce64c1259f2e4a20fb628"
+  },
+  {
+   "file": "models/limb_extras.glb",
+   "size": 159544,
+   "sha256": "c58d23d4c64bba181c1001b8be0f86596ee9408b6116a38d0932d7226511a052"
+  },
+  {
+   "file": "models/lower_limb_vessels_s122.glb",
+   "size": 171544,
+   "sha256": "27b64be0be722daf7f2479b8cb607d26a3e8994ac5c103e9ce3502f13fda7164"
+  },
+  {
+   "file": "models/lower_limb_vessels_s122b.glb",
+   "size": 101896,
+   "sha256": "40da9f8412a78bab28131a57f0cd894c5bfe5f8c9b60686295dbf8596f237a43"
+  },
+  {
+   "file": "models/lower_limb_vessels_s122c.glb",
+   "size": 11056304,
+   "sha256": "85aa07aa84ff98676c24d5f0b9a34f5b02d2ee3925d69bc86f10996100b848c6"
+  },
+  {
+   "file": "models/lung_fix2_s119.glb",
+   "size": 694156,
+   "sha256": "bbeac2a4e926a27ff8bc4f9d2f93dffae33c6b9ed04accc4e047ded6a8f45c82"
+  },
+  {
+   "file": "models/lung_fix_s119.glb",
+   "size": 247928,
+   "sha256": "39f1661d5e85dd783d9d8ac6b22db32a3c8110ee40cb9bdf269464b353c805cc"
+  },
+  {
+   "file": "models/lv_ant_papillary_s119.glb",
+   "size": 31336,
+   "sha256": "4de2c0aa1d28f6fabf512ff775e4e911f586daeea1b49efcea93a8eaa5b8eaab"
+  },
+  {
+   "file": "models/lv_cavity_s119.glb",
+   "size": 1798848,
+   "sha256": "f3833500eed02876dd08331315978218964960c26f0da75d334f60478b1c5312"
+  },
+  {
+   "file": "models/male_chest.glb",
+   "size": 56596,
+   "sha256": "bfbe2693180e643a7cc7403d2c50738663dad15505bcaae0b815cd8b88ddeba6"
+  },
+  {
+   "file": "models/maxillary_sinus_s117.glb",
+   "size": 9180,
+   "sha256": "aa7a1a2b62e701f6c37bec37e1f22c05c431495baf056102c35271d573ebb733"
+  },
+  {
+   "file": "models/middle_cells_s120.glb",
+   "size": 8264,
+   "sha256": "70e29e123898e8626877b50a1a9db98274cea5c0ae459eb652dae15902ef1cf4"
+  },
+  {
+   "file": "models/mitral_anterior_s119.glb",
+   "size": 147036,
+   "sha256": "6f21b7a82df8a07295e9f2fb5652c3be9748d7423f423d8dd4c971a731b11bf9"
+  },
+  {
+   "file": "models/muscles_at_s119.glb",
+   "size": 7631588,
+   "sha256": "5756d204407e7be1f0c724bb5c73e62e6bf063b1582146c1145bf5dff36ddea5"
+  },
+  {
+   "file": "models/muscles_extra.glb",
+   "size": 21644,
+   "sha256": "5eeb66c26c31ed6aa132eae66c8bb715c53b327ac1577d825bfa05ec3d5e81d7"
+  },
+  {
+   "file": "models/neck_trunk_vessels_s122_female.glb",
+   "size": 75112,
+   "sha256": "50a4845e7a6fb278076bea34a6438bb7d552956287bd576616360d29d10f7d0b"
+  },
+  {
+   "file": "models/neck_trunk_vessels_s122_male.glb",
+   "size": 75112,
+   "sha256": "7a3d478a694a310d026f5375f6a8b21bae40390aa1fb60abc930213bdfc6352b"
+  },
+  {
+   "file": "models/neck_trunk_vessels_s122b.glb",
+   "size": 1433480,
+   "sha256": "b8fea14f1902860fa5ebf094c2793b5c7043d667c6f44e13df99e142c9f901ff"
+  },
+  {
+   "file": "models/neck_trunk_vessels_s122c_female.glb",
+   "size": 20636,
+   "sha256": "47732991cee49abf8193efe8281d04701cd32abd906c8a0dfcc9ad1ad42ea840"
+  },
+  {
+   "file": "models/neck_trunk_vessels_s122c_male.glb",
+   "size": 20624,
+   "sha256": "03d4278ff4719d0b500c458ab17803fccaf7af69300e19c91d0e8d888129c954"
+  },
+  {
+   "file": "models/nerves_at.glb",
+   "size": 2227488,
+   "sha256": "f3e743d07bc3818d543385430a0d0608b12b2330e596a285e523a36adc2705e1"
+  },
+  {
+   "file": "models/nipple_areola_m.glb",
+   "size": 33400,
+   "sha256": "0727ebc49401c38ef5be37e14b081eee70cb5714f3bbe4d35c7067a534d3a2c7"
+  },
+  {
+   "file": "models/nodes_s124.glb",
+   "size": 17648,
+   "sha256": "54745147280e2a7ed784dc1b3e95556e4f37a9554f89ffaebb4f4aa54fa560bd"
+  },
+  {
+   "file": "models/nuclei_female.glb",
+   "size": 148908,
+   "sha256": "c4dd5c3a83683cae76bc3e05a792afe7b0387b259a51a57d4e7e4b6e6e73b36a"
+  },
+  {
+   "file": "models/nuclei_male.glb",
+   "size": 148924,
+   "sha256": "34f7b98359e76ec1135b23f7a959bb7f3458b8e50bf86a7833e099e70a071182"
+  },
+  {
+   "file": "models/occipital_jf_s122.glb",
+   "size": 383760,
+   "sha256": "310bae55eda0812d6638b88a54ea6b471239ad4803c39ec3bacc82e0f516a1b4"
+  },
+  {
+   "file": "models/ophthalmic_artery_s117.glb",
+   "size": 26480,
+   "sha256": "240121b1332d2bb0c3ed4ef0fb60389d62f26d33da00c7b00c436e1b9a2c0cb2"
+  },
+  {
+   "file": "models/organ_parts_s117.glb",
+   "size": 20232,
+   "sha256": "ad91e8c429128e8164baeb0581fdace5ad3a713ece86b987fe6be381351885ab"
+  },
+  {
+   "file": "models/organs.glb",
+   "size": 3193480,
+   "sha256": "da73510e4eaa55db85f9bdea9fae5cb719158c92b8ed3c296457d6c8464f446b"
+  },
+  {
+   "file": "models/palpebral_lig_s122.glb",
+   "size": 3944,
+   "sha256": "ece883830cc0579c0d3341c9ef9c3cde908adc633677e82dda2f4a90d9a68f3e"
+  },
+  {
+   "file": "models/pancreas_fix_s119.glb",
+   "size": 708052,
+   "sha256": "d40991d1cf7639ee9be4f8c7835d615892d8aa1167ca9175d90acc79f66b53be"
+  },
+  {
+   "file": "models/pelvic_attach_s124_female.glb",
+   "size": 424392,
+   "sha256": "c53a6032fd32ea7ea79efab8633c4204daa49fd326242701644a4d702d6ca1a6"
+  },
+  {
+   "file": "models/pelvic_attach_s124_male.glb",
+   "size": 424396,
+   "sha256": "0a65d9efb0651cc713f1ef022030c9742adbf276506199c1662b5f8b4c29d760"
+  },
+  {
+   "file": "models/pelvis_female.glb",
+   "size": 120904,
+   "sha256": "647c8e3bd9c3884a1b9aba3ef91b42fea2270ff68cbe9bf97956c99aeac3e8ce"
+  },
+  {
+   "file": "models/pelvis_male.glb",
+   "size": 120656,
+   "sha256": "8e14a9c9fbf026405cf6fa514f6ea1f91d9dacde1fe7d1e9b215a6dff1674f68"
+  },
+  {
+   "file": "models/penis_cc_s119.glb",
+   "size": 6128,
+   "sha256": "2cdeca460c97788554f9025b15394f6f16d3a2fb617db68ab37eca0ad211527d"
+  },
+  {
+   "file": "models/pericardium_new_s119.glb",
+   "size": 606812,
+   "sha256": "f11614cb7eb367d14c3996aa59c3cac0d34200eb83f4d8a1956398ee5afd435c"
+  },
+  {
+   "file": "models/pericardium_s117.glb",
+   "size": 85680,
+   "sha256": "edc76db97bae62957b1ff43b3acb7fdb3241f6df90f1a003c8423cebe8a65a3b"
+  },
+  {
+   "file": "models/pericardium_s119_sac3.glb",
+   "size": 603808,
+   "sha256": "b4b8a6b6620558cae73288ba48e69da50bef2f0af7c0c74878b53a161789abdc"
+  },
+  {
+   "file": "models/preaortic_nodes_fix_s119.glb",
+   "size": 13228,
+   "sha256": "1c340a9d5d6c182a8c60d9c91584366a12f4f3b96e9c79c799bb7da8b1686a85"
+  },
+  {
+   "file": "models/pterygoid_s122.glb",
+   "size": 34056,
+   "sha256": "4c17c0d09de1f7b51a158bfcf512e6ffa10eef42c6ce9270123b00b23dfd23de"
+  },
+  {
+   "file": "models/quadriceps.glb",
+   "size": 474748,
+   "sha256": "42b69cebd8c4bd557267290cc57cf294e93e773ced70d2004e4ac43df7efd30a"
+  },
+  {
+   "file": "models/recovered_muschi_s36.glb",
+   "size": 271636,
+   "sha256": "c29c54a819a2740aff43ddbd8fb1461b58d37311f32a88f48f1106c3160a3dae"
+  },
+  {
+   "file": "models/recovered_muschi_s37.glb",
+   "size": 142612,
+   "sha256": "c951406b6d3a26e2068868677bf19bfbc59a7ad618cd8865b1513e30a665dc1d"
+  },
+  {
+   "file": "models/recovered_oase_s36.glb",
+   "size": 61928,
+   "sha256": "523b790cbdbd667472d3ca3302fc4f0d1943e9d0d35352c487e6c6429146d66a"
+  },
+  {
+   "file": "models/recovered_oase_s37.glb",
+   "size": 79240,
+   "sha256": "4bc844f2979834d7012031b3d9ccb850793ee7d3a0d5e271b8bc6aaf147874b8"
+  },
+  {
+   "file": "models/recovered_ochi_s37.glb",
+   "size": 52964,
+   "sha256": "58cc4596a1570203c0cfd35309449e781756a5f6dce62a565b8e959d965d7603"
+  },
+  {
+   "file": "models/rectum.glb",
+   "size": 12748,
+   "sha256": "2e1cb06fe690984f2beeaa2ff81956c11f9d3254db3a5bbe0f3ebc4d8eed23ca"
+  },
+  {
+   "file": "models/rectus_sheath_s119.glb",
+   "size": 104220,
+   "sha256": "83f86aa11c2184dfb952412f90c6e5cd7cbe5f079f41044bfeb1c17b18586fe1"
+  },
+  {
+   "file": "models/scarpa_female_s119.glb",
+   "size": 148208,
+   "sha256": "3eef37afffd8392b3502649043029c976eccc19fc173c738cea7e508edf58627"
+  },
+  {
+   "file": "models/scarpa_male_s119.glb",
+   "size": 149132,
+   "sha256": "2720596bcfea785c492ad3f4b56af75dba35c8166bb3f0bd8b0bc3fecae16c51"
+  },
+  {
+   "file": "models/scattered2_s118.glb",
+   "size": 50504,
+   "sha256": "2d519b4622314da11f62f3206517f1da0d1e61cf6d17b2b82841e8d920e72fbb"
+  },
+  {
+   "file": "models/scattered3_s118.glb",
+   "size": 3096,
+   "sha256": "67d9fe3f9ff0311f43773f4851c382a4da04556efda335dbf7f51d23e4a27d05"
+  },
+  {
+   "file": "models/sinuses.glb",
+   "size": 46012,
+   "sha256": "9bb62cd6580de0ad35509742d4e89a972c03d73147b7dc114e0369e7d72ad947"
+  },
+  {
+   "file": "models/skeleton_at.glb",
+   "size": 4918404,
+   "sha256": "725db6203458252d756da872e7f30a944f4efce5d1fd0370c8dd94df35a5ff2d"
+  },
+  {
+   "file": "models/skullbase_fs_s122_female.glb",
+   "size": 1425308,
+   "sha256": "b3c49389850a9cf54dec0efcc4bbfc4c3fc9280fbdd1b044be89a5b53c058987"
+  },
+  {
+   "file": "models/skullbase_fs_s122_male.glb",
+   "size": 1424784,
+   "sha256": "36d5ac0b46a19cb4411f6090e2853a416eac2aa9c7fb567ded85b229624e5303"
+  },
+  {
+   "file": "models/sphenoid_spine_s119.glb",
+   "size": 480136,
+   "sha256": "ff7e858f8d5c56a5d284fad5b9f85b195b3a79b5e6290903265d7f2a3315882b"
+  },
+  {
+   "file": "models/spine_ligaments.glb",
+   "size": 43864,
+   "sha256": "cc94ca165c41046b6832e4cfd95a273b3f9ee425bb5a9f5948d242c629d3407b"
+  },
+  {
+   "file": "models/submandibular_duct_s123.glb",
+   "size": 16336,
+   "sha256": "2f424fe7431bed6856fa179fd72a9a20c6f2f2607e7b65062d5784960ae0c540"
+  },
+  {
+   "file": "models/superficial_epigastric_s122.glb",
+   "size": 243368,
+   "sha256": "9826a68a339cbd19a54e40adb4c1d13c3ea7992797c6ce39844209e98c1c8505"
+  },
+  {
+   "file": "models/superior_concha_s120.glb",
+   "size": 53128,
+   "sha256": "c72cddf7a8f8b269d53bf7da7dba19bb2904ab6d77988d8a35eb343a63002e20"
+  },
+  {
+   "file": "models/tarsi_s122.glb",
+   "size": 76368,
+   "sha256": "8fc39040cae437c6c4054d6e2aef713dee67981e54c113d82c784236680a027d"
+  },
+  {
+   "file": "models/thigh_fat.glb",
+   "size": 44892,
+   "sha256": "05934ae6e1adf420f24f4fb8b672375f91a43475d8738c20329a85be9ef28362"
+  },
+  {
+   "file": "models/tibialis_anterior.glb",
+   "size": 14132,
+   "sha256": "e8a0b559192912812dfbda7334170741127f51fc8ffd903be0c2a5f72437aeb1"
+  },
+  {
+   "file": "models/tonsils_s117.glb",
+   "size": 2812,
+   "sha256": "539584bd62de55d883192e8958367038707c4fb7f86acc8ff719837431afee3f"
+  },
+  {
+   "file": "models/tricuspid_anterior_s119.glb",
+   "size": 174388,
+   "sha256": "8addcd78c7157e373648349adcab90d2ef0499ddf16738b1fdae2dccd3a06675"
+  },
+  {
+   "file": "models/upper_limb_vessels_s122_female.glb",
+   "size": 7117248,
+   "sha256": "fcb281272252d8f9dbd077162117463b6c7020f5b21b70af6841dfe31f5f2235"
+  },
+  {
+   "file": "models/upper_limb_vessels_s122_male.glb",
+   "size": 7124832,
+   "sha256": "3b2cca354239e4db60b98d9a9b76a91bb96e74ea704ce11f5db6dcce7a4c650f"
+  },
+  {
+   "file": "models/vessels_at.glb",
+   "size": 2794332,
+   "sha256": "c0cc4850368039a8345f2846ef90c300dd2ec8f757913f720d346152772a9f8d"
+  }
+ ]
+}
