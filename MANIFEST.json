@@ -1,7 +1,7 @@
 {
- "model_version": "MV395",
+ "model_version": "MV400",
  "license": "CC-BY-SA-4.0",
- "count": 157,
+ "count": 161,
  "files": [
   {
    "file": "models/abdo_wall_s124_female.glb",
@@ -449,6 +449,11 @@
    "sha256": "c58d23d4c64bba181c1001b8be0f86596ee9408b6116a38d0932d7226511a052"
   },
   {
+   "file": "models/liver_lobes_s124.glb",
+   "size": 569352,
+   "sha256": "6d3219a4fc8c65011ab2a46d66092d4ab24b68557251a37e3b7b47c2063eace7"
+  },
+  {
    "file": "models/lower_limb_vessels_s122.glb",
    "size": 171544,
    "sha256": "27b64be0be722daf7f2479b8cb607d26a3e8994ac5c103e9ce3502f13fda7164"
@@ -485,8 +490,8 @@
   },
   {
    "file": "models/male_chest.glb",
-   "size": 56596,
-   "sha256": "bfbe2693180e643a7cc7403d2c50738663dad15505bcaae0b815cd8b88ddeba6"
+   "size": 316676,
+   "sha256": "f656a5767cc962fbed27831ccd71ac96212250e398079edf1bfcde540508dad0"
   },
   {
    "file": "models/maxillary_sinus_s117.glb",
@@ -545,8 +550,8 @@
   },
   {
    "file": "models/nipple_areola_m.glb",
-   "size": 33400,
-   "sha256": "0727ebc49401c38ef5be37e14b081eee70cb5714f3bbe4d35c7067a534d3a2c7"
+   "size": 216044,
+   "sha256": "95ec5584e555655c4fcdce65313e06463dce641f77a81e880bd0c43d17afef5d"
   },
   {
    "file": "models/nodes_s124.glb",
@@ -712,6 +717,21 @@
    "file": "models/skeleton_at.glb",
    "size": 4918404,
    "sha256": "725db6203458252d756da872e7f30a944f4efce5d1fd0370c8dd94df35a5ff2d"
+  },
+  {
+   "file": "models/skin_genitals_male_african.glb",
+   "size": 349236,
+   "sha256": "698f281051e7c2751cf75547f1f8760ec586046d937f3e3857381f93610382d0"
+  },
+  {
+   "file": "models/skin_genitals_male_asian.glb",
+   "size": 348700,
+   "sha256": "68080e8967f0d7cf97b7bd00fdbef4017fb7c5c12b3030c4009c2dfaee42e06a"
+  },
+  {
+   "file": "models/skin_genitals_male_caucasian.glb",
+   "size": 347464,
+   "sha256": "49f0d855473f957fabbffa35ad1a7086cff7bb2056831936ffcc489af377666d"
   },
   {
    "file": "models/skullbase_fs_s122_female.glb",
