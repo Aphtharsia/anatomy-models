@@ -1,6 +1,6 @@
 # Aphtharsia anatomy models (CC BY-SA 4.0)
 
-These are the 3D anatomy model files shipped in the Aphtharsia anatomy app (model version MV400)
+These are the 3D anatomy model files shipped in the Aphtharsia anatomy app (model version MV403)
 that are adaptations of third-party ShareAlike material. They are offered here free, without
 DRM, under the same licence, so that anyone can use, study and adapt them.
 
@@ -39,16 +39,16 @@ Each file carries its own name; `MANIFEST.json` lists every file with its size a
 
 ## What is included
 
-161 model files: every file the app loads that contains Z-Anatomy / BodyParts3D geometry, or
+185 model files: every file the app loads that contains Z-Anatomy / BodyParts3D geometry, or
 whose surface was traced from it. That covers the source-derived base layers and every file built
 by moving, copying, re-forming, partitioning or casting onto that geometry. Where provenance
 could not be settled in favour of independent geometry, the file is included.
 
 ## What is NOT included, and why
 
-The app loads 271 model files in total (counting all three skin tones). The 110 not included here are:
+The app loads 297 model files in total (counting all three skin tones). The 112 not included here are:
 
-* **99 original structures**, generated procedurally by the app's own tools from measured
+* **101 original structures**, generated procedurally by the app's own tools from measured
   anatomical coordinates. They contain no third-party mesh data and are separate files shipped
   alongside the adapted models (aggregation, not adaptation), so ShareAlike does not reach them.
 * **6 outer-body skin files** made with MakeHuman, released CC0 (public domain). No obligation
